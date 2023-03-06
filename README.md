@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100px" src="CoScienze_wth.png" align="center" alt="CoScienze" />
+  <img width="400px" src="CoScienze_wth.png" align="center" alt="CoScienze" />
   <h1 align="center">Hello everyone!</h1>
     <p align="center">It's CoScienze, UNISA's Computer Science students association!</p>
 </p>
