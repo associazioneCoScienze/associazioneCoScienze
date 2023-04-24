@@ -5,11 +5,15 @@
 </p>
 
 <h2>🖥️ What is this for?</h2>
-<p>Our GitHub is used to share some of you best works here on GitHub, so that everyone can have a look at them!</p>
+<p>Our GitHub is used to share some of your best works here on GitHub, so that everyone can have a look at them!</p>
 </br>
 
 <h2>🍎 About Us</h2>
 <p>CoScience is a students association that helps computer science students and it's located on the first floor of the F building at UNISA's campus.</p>
+</br>
+
+<h2>⚠️ Disclaimer ⚠️</h2>
+<p> We fork repository under the consent of the owners and creators. We don't assume any responsability of the quality of the code you will find. Every project is from UNISA's students for their exams, shared with us for helping other students with their work too.</p>
 </br>
 
 <h2>📫 How to reach us</h2>
