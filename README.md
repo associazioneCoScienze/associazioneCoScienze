@@ -21,7 +21,7 @@ We fork repository under the consent of the owners and creators. We don't assume
 
 ## 📫 How to reach us
 <div align="left">
-<a href="mailto:associazionecoscienze@gmail.com" target="_blank" rel="noreferrer">
+<a href="mailto:associazionecoscienze@gmail.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/300px-Gmail_icon_%282020%29.svg.png"
       alt="e-mail"
@@ -29,7 +29,7 @@ We fork repository under the consent of the owners and creators. We don't assume
       height="35"
     />
   </a>
-  <a href="https://www.instagram.com/associazione_coscienze/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/associazione_coscienze/"  style="text-decoration: none;" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
       alt="e-mail"
